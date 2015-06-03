@@ -1,0 +1,16 @@
+.navbar a {
+  color: #333;
+}
+
+.navbar {
+  background-color: #f7f7f7;
+}
+
+.main-icon {
+  height: 1em;
+  display: inline!important;
+}
+
+.icon-bar {
+  background-color: #333;
+}
